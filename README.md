@@ -1,0 +1,2 @@
+# nqd
+tool lỏ th
